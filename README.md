@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Store with Glass Design and Checkout
 
 An interactive and stylish e-commerce store built with React, featuring a glass-morphism UI design, product search, add-to-cart functionality, and a complete checkout flow.
@@ -20,3 +21,6 @@ To get this project running locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/ecommerce-store.git
    cd ecommerce-store
+=======
+# e-commerce
+>>>>>>> 4bf78272d397ed415d96b213015909169fe5b1fc
