@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # E-commerce Store with Glass Design and Checkout
 
 An interactive and stylish e-commerce store built with React, featuring a glass-morphism UI design, product search, add-to-cart functionality, and a complete checkout flow.
